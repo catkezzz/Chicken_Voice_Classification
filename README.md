@@ -49,14 +49,11 @@ The application integrates:
 1. **Audio Recording:**
    - The Android application records audio in real-time using the WaveRecorder library.
 
-2. **Feature Extraction:**
-   - The recorded audio is processed to extract MFCC features, which are then sent to the backend for classification.
-
-3. **Backend Inference:**
+2. **Backend Inference:**
    - The recorded audio which are then sent to the backend to extract MFCC features
    - The Flask API hosts the Conv2D-LSTM model to classify the audio into predefined chicken behaviors.
 
-5. **Real-time Predictions:**
+3. **Real-time Predictions:**
    - The application displays classification results in real-time, updated every 4 seconds.
 
 ---
