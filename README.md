@@ -59,6 +59,7 @@ The application integrates:
 ---
 
 ## Application Visualization
+![image](https://github.com/user-attachments/assets/ab30cf08-a6e1-41a7-a1b2-9502535cc61b)
 
 
 ## Technical Stack
