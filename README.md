@@ -101,8 +101,7 @@ The application integrates:
 ### Steps:
 1. **Backend Setup:**
    - Clone the repository.
-   - Navigate to the backend folder.
-   - Run the Flask API server
+   - Run the Flask API server, python file named app.py
      
 2. **Frontend Setup:**
    - Open the Android project in Android Studio.
